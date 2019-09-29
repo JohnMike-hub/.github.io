@@ -1,0 +1,48 @@
+I"±<div id="authors">
+
+<h3>HANUMAN</h3>
+<ul class="posts">
+
+
+
+<li itemscope=""><span class="entry-date"><time datetime="2017-11-30T12:00:00+08:00" itemprop="datePublished">November 30, 2017</time></span> &raquo; <a href="20171130style-guide.html">Style Guide</a></li>
+
+
+
+
+
+
+
+
+
+<li itemscope=""><span class="entry-date"><time datetime="2017-11-27T12:00:00+08:00" itemprop="datePublished">November 27, 2017</time></span> &raquo; <a href="20171127media.html">Media</a></li>
+
+
+
+</ul>
+<hr />
+
+<h3>KRISHNA</h3>
+<ul class="posts">
+
+
+
+
+
+<li itemscope=""><span class="entry-date"><time datetime="2017-11-29T12:00:00+08:00" itemprop="datePublished">November 29, 2017</time></span> &raquo; <a href="20171129sample.html">Sample</a></li>
+
+
+
+
+
+<li itemscope=""><span class="entry-date"><time datetime="2017-11-28T12:00:00+08:00" itemprop="datePublished">November 28, 2017</time></span> &raquo; <a href="20171128code.html">Code</a></li>
+
+
+
+
+
+</ul>
+<hr />
+
+</div>
+:ET
